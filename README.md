@@ -7,3 +7,5 @@ Steps to Compile in Eclipse:
 - How to open with eclipse:
 
 File => Import => General => Select Existing Projects into Workspace => Next => choose the downoaded file =>Finish
+
+Note: Find the .PDF in each project folder for projects explanation.
